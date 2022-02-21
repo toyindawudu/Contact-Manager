@@ -19,7 +19,6 @@ class AddContact extends React.Component {
         </form>
       </div>
     );
-    
   }
 
 }
